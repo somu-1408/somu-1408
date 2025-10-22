@@ -1,9 +1,9 @@
 # 🤖 Somu Renumadugu
  Data Science Engineer | AI Enthusiast | Intern
-
-<h3 align="center">👀 Who's Checking Me Out 👀</h3>
+ 
+<h3 align="center">⚙ Profile Tracker ⚙</h3>
 <p align="center">
-  <img src="https://count.getloli.com/@somu-1408?name=somu-1408&theme=tokyo-night&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  <img src="https://count.getloli.com/@somu-1408?name=somu-1408&theme=steel&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 </p>
 
 
